@@ -13,4 +13,4 @@ draft: false
 
 ## 部署
 
-先执行`hugo`命令。然后将public下的文件拷贝服务器的到nginx下的指定目录，搞定。
+先执行`hugo`命令。然后将public下的文件拷贝到服务器的nginx指定目录下，搞定。
